@@ -1,3 +1,6 @@
 This is pactice file for Git
 This is secone line.
-this is 3rd line from github
+<<<<
+This is 3rd line
+This is 4th line from terminal
+This is 5th like from git hub
